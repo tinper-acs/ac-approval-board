@@ -1,4 +1,4 @@
-# ApprovalBoard
+# 流程面板 ApprovalBoard
 
 组件依赖云审批组件sdk，必须引入，否则无法使用。
 
